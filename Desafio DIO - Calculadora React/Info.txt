@@ -1,0 +1,2 @@
+Precisa ter o Node Instalado.
+Pois eu não enviei a pasta node_modules, pois estava muito grande.
